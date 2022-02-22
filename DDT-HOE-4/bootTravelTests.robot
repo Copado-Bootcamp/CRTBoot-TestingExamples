@@ -13,9 +13,8 @@ Entering A Department
     ClickUntil                Recently Viewed             Departments
     ClickUntil                New Department              New
 
-    ${deptRunId}              Generate Random String       4    [NUMBERS]
     UseModal                  On
-    TypeText                  Department Name              Jen Practice Department-${deptRunId}
+    TypeText                  Department Name              Jen Practice Department
     TypeText                  Department Code              D-042
     ClickText                 Save                        partial_match=False
     UseModal                  Off
@@ -23,7 +22,7 @@ Entering A Department
     Sleep                     1
 
     ClickText                 Details
-    VerifyText                Jen Practice Department-${deptRunId}    anchor=Information
+    VerifyText                Jen Practice Department    anchor=Information
     VerifyText                D-042    anchor=Information
 
 #    Now, let's confirm that our Deparment Code is enforcing Unique by repeating our test with the same Dept Code
@@ -31,9 +30,8 @@ Entering A Department
     ClickUntil                Recently Viewed             Departments    2
     ClickUntil                New Department              New
 
-    ${deptRunId}              Generate Random String       4    [NUMBERS]
     UseModal                  On
-    TypeText                  Department Name              Jen Practice Department-${deptRunId}
+    TypeText                  Department Name              Jen Practice Department
     TypeText                  Department Code              D-042
     ClickText                 Save                        partial_match=False
 
