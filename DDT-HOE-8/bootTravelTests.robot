@@ -17,7 +17,7 @@ Entering A Travel Approval
     PickList                  Status                        ${Status__c}
     ClickText                 Department
     TypeText                  Search Departments...     ${Department__c}    Search Departments...
-    ClickText                 ${Department__c}          2
+    ClickText                 ${Department__c}          2                   delay=5
     TypeText                  Purpose of Trip           ${Purpose_of_Trip__c}
     TypeText                  Destination State         ${Destination_State__c}
     ${current_date}=          Get Current Date            result_format=%m/%d/%Y
