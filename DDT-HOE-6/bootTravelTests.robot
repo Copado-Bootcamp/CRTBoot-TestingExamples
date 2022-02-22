@@ -18,9 +18,8 @@ Entering A Department
     ClickUntil                Recently Viewed             Departments
     ClickUntil                New Department              New
 
-    ${deptRunId}              Generate Random String       4    [NUMBERS]
     UseModal                  On
-    TypeText                  Department Name              ${Name}-${deptRunId}
+    TypeText                  Department Name              ${Name}
     TypeText                  Department Code              ${Department_Code__c}
     ClickText                 Save                        partial_match=False
     UseModal                  Off
@@ -28,5 +27,5 @@ Entering A Department
     Sleep                     1
 
     ClickText                 Details
-    VerifyText                ${Name}-${deptRunId}    anchor=Information
+    VerifyText                ${Name}                  anchor=Information
     VerifyText                ${Department_Code__c}    anchor=Information
