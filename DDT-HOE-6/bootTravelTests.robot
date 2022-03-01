@@ -13,10 +13,9 @@ Entering A Department
     [Arguments]               ${Name}    ${Department_Code__c}
     Appstate                  Home
     LaunchApp                 Travel App
-    VerifyText                Home
-
-    ClickUntil                Recently Viewed             Departments
-    ClickUntil                New Department              New
+    VerifyText                Departments
+    ClickText                 Departments Menu           delay=3
+    ClickText                 New Department    recognition_mode=vision
 
     UseModal                  On
     TypeText                  Department Name              ${Name}
