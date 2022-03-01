@@ -6,12 +6,11 @@ Suite Teardown                End suite
 *** Test Case ***
 Entering A Department
     [tags]                    travel.Departments
-    Appstate                  Login
+    Appstate                  Home
     LaunchApp                 Travel App
-    VerifyText                Home
-
-    ClickUntil                Recently Viewed             Departments
-    ClickUntil                New Department              New
+    VerifyText                Departments
+    ClickText                 Departments Menu           delay=3
+    ClickText                 New Department    recognition_mode=vision
 
     UseModal                  On
     TypeText                  Department Name              ${Name}
