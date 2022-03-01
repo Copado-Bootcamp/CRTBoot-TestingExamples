@@ -27,14 +27,15 @@ Entering A Department
 
 #    Now, let's confirm that our Deparment Code is enforcing Unique by repeating our test with the same Dept Code
 
-    ClickUntil                Recently Viewed             Departments    2
-    ClickUntil                New Department              New
+    ClickText                 Departments Menu
+    ClickText                 + New Department           recognition_mode=vision
 
     UseModal                  On
-    TypeText                  Department Name              Jen Practice Department
-    TypeText                  Department Code              D-042
+    TypeText                  Department Name             Jen Practice Department
+    TypeText                  Department Code             D-042
     ClickText                 Save                        partial_match=False
+    VerifyText                We hit a snag.              recognition_mode=vision
+    VerifyText                duplicate value found:      recognition_mode=vision
 
-    IsAlert                   timeout=2s
     ClickText                 Cancel                      delay=3
     UseModal                  Off
