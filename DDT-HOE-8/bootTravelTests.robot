@@ -10,15 +10,21 @@ Entering A Travel Approval
     Appstate                  Home
     LaunchApp                 Travel App
 
-    ClickUntil                Recently Viewed             Travel Approvals
-    ClickUntil                New Travel Approval              New
+    VerifyText                Travel Approvals
+    ClickText                 Travel Approvals Menu
+    ClickText                 New Travel Approval          recognition_mode=vision
 
     UseModal                  On
+    VerifyText                New Travel Approval    
     PickList                  Status                        ${Status__c}
     ClickText                 Department
     TypeText                  Search Departments...     ${Department__c}    Search Departments...
-    ClickText                 Show All Results
-    ClickText                 ${Department__c}
+    Sleep                     1
+
+    ${dept_name}=             IsText                    ${Department__c}    3    recognition_mode=vision
+
+    Run Keyword If            ${dept_name}              Short Department Name    ELSE    Long Department Name
+
     TypeText                  Purpose of Trip           ${Purpose_of_Trip__c}
     TypeText                  Destination State         ${Destination_State__c}
     ${current_date}=          Get Current Date            result_format=%m/%d/%Y
@@ -33,5 +39,13 @@ Entering A Travel Approval
     Sleep                     1
 
     VerifyText                Travel Approval - General Details
+    VerifyText                ${Department__c}    
     VerifyText                Trip Info
     VerifyText                System Fields
+
+*** Keywords ***
+Short Department Name
+    ClickText                 ${Department__c}    3    recognition_mode=vision
+
+Long Department Name
+    ClickText                 ${Department__c}    2    recognition_mode=vision
