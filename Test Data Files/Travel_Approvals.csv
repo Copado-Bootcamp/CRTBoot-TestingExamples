@@ -1,301 +1,301 @@
-External_Id__c,Status__c,Purpose_of_Trip__c,Trip_Start_Date__c,Trip_End_Date__c,Destination_State__c,Department__c
-a0M5w000002kOgVJXL,Approved,Monahan Group,4,11,GA,Technology
-a0Q7l000005jGgYNYD,New,"Muller, Dach and Powlowski",10,27,OK,Audit Services
-a0S1i000008nYpVAFX,Rejected,"Grimes, McClure and Gleichner",17,20,TX,Office of Communications and Media
-a0S3f000006sQpPBPP,Submitted,"Kemmer, Kuhic and Windler",4,11,TX,Contract Management
-a0X0d000008hSySBMR,Pending Approval,"Romaguera, Muller and Schulist",6,9,TX,Technology
-a0X5x000003qFbQMDC,Submitted,"Upton, Murphy and Block",19,26,FL,Office of Communications and Media
-a0Y5p000008nZqFIKU,Submitted,Lebsack-Hettinger,20,24,FL,Contract Management
-b0L8g000002jWwIRPW,Pending Approval,Mitchell Group,23,30,OK,Office of Medicaid Policy and Planning
-b0O5y000000aRrQHRZ,Submitted,"Lehner, Robel and Botsford",21,26,TX,Office of General Counsel
-b0Q1k000007cDgUGGH,Draft,Hand and Sons,23,29,CA,Contract Management
-b0Q6h000002oNsGSSJ,Draft,Senger-Schumm,5,27,FL,Human Resources
-b0T7h000006jOfCVTE,Draft,"O'Reilly, Franecki and Romaguera",8,18,FL,Technology
-b0T7s000001sImZDZZ,Submitted,"McKenzie, Brown and Trantow",27,30,TX,Office of General Counsel
-b0V0x000009jHkUFHE,New,"Abernathy, Beatty and Leffler",9,16,CA,Division of Finance
-b0V5g000003hSlEQMD,Submitted,Adams-Halvorson,20,23,TX,Legislative Services
-b0Z9e000009kKjKSYV,New,Smitham and Sons,10,20,CA,Office of Communications and Media
-c0B7r000007cQlKHPD,New,"Baumbach, Legros and Wisoky",4,11,TX,Contract Management
-c0E4x000000vTfZTCT,Rejected,"Homenick, Blanda and Hoppe",5,11,GA,Division of Aging
-c0F0f000008zYbIIWZ,Submitted,"Huel, Torphy and Lowe",20,27,TX,Office of General Counsel
-c0H8m000000pGhQIBL,Approved,Wintheiser-DuBuque,6,12,FL,Division of Disability and Rehabilitative Services
-c0I5i000007iVpLGQO,Rejected,Hammes and Sons,5,29,FL,Human Resources
-c0I8b000000tUrJIQR,Submitted,"Emmerich, Koch and Zemlak",2,31,FL,Office of Early Childhood and Out-of-School Learning
-c0K2w000004bFaZBOE,New,"Wehner, Wilkinson and Gulgowski",5,6,TX,Division of Finance
-c0K5d000006hTcQVTN,Submitted,Hintz LLC,28,35,OK,Disability Determination Bureau
-c0L5x000007jAxNNCS,New,"Rutherford, Glover and Gerhold",11,18,TX,Division of Aging
-c0O2m000001oAsMPJE,Approved,Lowe LLC,30,37,TX,Office of Early Childhood and Out-of-School Learning
-c0P3f000007bHzQXNP,Approved,"Farrell, Tremblay and Mills",17,29,CA,Division of Family Resources
-c0R5d000001yOeJFZY,Draft,"Willms, Fay and Hahn",20,27,OK,Disability Determination Bureau
-c0R5t000005oHvVCLY,Draft,Herzog Group,23,26,OK,Division of Disability and Rehabilitative Services
-c0R8c000000kShFFNR,Approved,"Reichert, Connelly and Davis",27,34,FL,Quality and Compliance Office
-c0T1a000008qSdBEAK,Submitted,Ritchie-Corkery,12,22,CA,Division of Disability and Rehabilitative Services
-c0T3q000000xQsCABW,Draft,Buckridge-Walsh,28,30,FL,Quality and Compliance Office
-c0X5b000005sQzUZRT,Submitted,McKenzie Inc,8,27,GA,Human Resources
-d0D6h000007uSfECES,Pending Approval,"Sauer, Franecki and VonRueden",14,26,OK,Legislative Services
-d0E4x000005jLqTCVQ,Approved,Hilll-Roob,17,20,TX,Contract Management
-d0G6w000007xJbNDUP,Submitted,Lehner Group,4,10,OK,Disability Determination Bureau
-d0L4r000001hNgFMNX,Approved,"Beer, Eichmann and Grimes",6,24,CA,Division of Family Resources
-d0N5p000007nDoYYII,Pending Approval,Sawayn-King,19,20,CA,Division of Disability and Rehabilitative Services
-d0O7x000004sRbWZEB,New,Schulist-Cole,9,16,GA,Contract Management
-d0O8w000009cWlEOZE,Pending Approval,Wintheiser-Romaguera,3,10,TX,Legislative Services
-d0R1y000000uCvJSCH,New,Stehr Group,15,19,TX,Office of General Counsel
-d0T6u000006mZdNABJ,Draft,Howell-Douglas,3,10,GA,Division of Finance
-e0D1w000004sJcTNGY,Pending Approval,"Bednar, Walsh and DuBuque",11,26,OK,Human Resources
-e0D9i000007tUqINWW,New,Morissette Group,2,12,OK,Office of Early Childhood and Out-of-School Learning
-e0E1l000007dQlGOQE,Draft,Jaskolski-Murray,21,31,CA,Technology
-e0I6r000004mUdUVSO,Pending Approval,"Kautzer, Fisher and Kiehn",7,14,OK,Legislative Services
-e0L0z000001oAtEORK,Draft,Sporer-Collins,18,20,FL,Audit Services
-e0M4h000008fXrMGWS,Draft,Thiel LLC,10,27,TX,Disability Determination Bureau
-e0S0f000005zXcEGBT,New,Hoeger-Crist,6,14,FL,Division of Aging
-e0T5y000007qWyVIQE,New,Kutch-Ebert,21,31,FL,Technology
-e0U4p000001gOeZLSM,Rejected,Dicki-Rath,7,14,GA,Division of Disability and Rehabilitative Services
-e0Z0y000009uIoSFZT,New,Rogahn Group,4,11,GA,Office of Early Childhood and Out-of-School Learning
-f0B9j000003cNlJAND,Draft,Stracke LLC,12,15,TX,Office of Communications and Media
-f0E6v000009nAgSAKU,Rejected,Ondricka LLC,18,30,GA,Office of Early Childhood and Out-of-School Learning
-f0E6y000005zAzZZBT,Approved,"Bauch, Bosco and Morissette",5,12,CA,Quality and Compliance Office
-f0E8q000008xQwDPDJ,Pending Approval,"Wunsch, Larkin and Hamill",20,25,CA,Legislative Services
-f0J4v000007nUuPGWF,New,Hilll-Lemke,7,14,FL,Audit Services
-f0K5y000008tEtVKJG,Rejected,Hodkiewicz LLC,7,19,TX,Office of Communications and Media
-f0L5g000004iFuEVEP,Submitted,"Murazik, Hoeger and Bode",3,22,FL,Office of General Counsel
-f0N7u000005vUrSBLH,Draft,Witting and Sons,24,30,OK,Division of Aging
-f0N7z000002dPxVLTN,New,Lind-Cormier,8,24,GA,Division of Aging
-f0P6m000003cHlWZBZ,Draft,Runte LLC,18,20,FL,Division of Finance
-f0Q1q000002yUqFXZS,Pending Approval,"Hodkiewicz, Gerlach and Beer",4,10,CA,Technology
-f0T3f000004vTuBMUO,Approved,"Nitzsche, Reichert and Johns",8,20,GA,Division of Family Resources
-f0U1c000000kYxNPKY,Pending Approval,"Jerde, Funk and Kuhn",11,30,TX,Division of Family Resources
-f0U8p000004xGpLMZV,New,Mitchell-Gibson,20,22,FL,Disability Determination Bureau
-f0V0p000003wQtLIYH,Rejected,White and Sons,4,31,GA,Office of Early Childhood and Out-of-School Learning
-f0W8c000007lWoNQWU,Draft,King-Jacobson,4,30,GA,Contract Management
-f0X3g000003nTdFDCY,Draft,"Kunde, Miller and Schmitt",19,31,CA,Office of Medicaid Policy and Planning
-f0Z9e000003iVeTIYW,Draft,Streich LLC,12,19,FL,Office of Communications and Media
-g0C7b000000vDmDQQX,Approved,Senger-Schowalter,21,25,GA,Disability Determination Bureau
-g0C8i000004aVrYKDO,New,"Kerluke, Watsica and Labadie",8,14,FL,Contract Management
-g0E1h000003bKtIDLI,New,"Stamm, Pouros and Bechtelar",21,28,FL,Human Resources
-g0F7m000006vBiBHQL,Pending Approval,"Anderson, Berge and Schinner",17,18,TX,Office of Early Childhood and Out-of-School Learning
-g0G0i000008qOoNXAA,New,Halvorson LLC,1,8,TX,Division of Family Resources
-g0K7y000004wCtCMZV,Approved,Altenwerth-Crooks,17,20,FL,Division of Aging
-g0M5w000009ePvVYOV,Rejected,"Morissette, Lang and Kris",15,22,TX,Disability Determination Bureau
-g0N9u000001kAkLSAW,Submitted,Brown Inc,2,15,CA,Quality and Compliance Office
-g0P4g000004pUfAXAF,Pending Approval,Fritsch-Johnston,9,11,FL,Human Resources
-g0W1r000000xAzSJTO,Draft,Ebert Inc,5,23,OK,Office of Early Childhood and Out-of-School Learning
-g0X2n000002vZmVGMO,Rejected,"Hickle, Champlin and Heathcote",4,25,GA,Office of Communications and Media
-g0X4t000003pEhWZPO,Submitted,Tromp-Wiza,1,29,FL,Human Resources
-g0X8r000001sHyGHDG,Draft,Wyman Group,4,31,FL,Audit Services
-g0Y5v000009aMfRTBS,Draft,Ondricka-Glover,19,21,GA,Division of Mental Health and Addiction
-g0Z1s000000dChEWEM,Submitted,"Powlowski, Schaefer and Macejkovic",11,27,GA,Office of Early Childhood and Out-of-School Learning
-h0A1x000006mKgYMEP,Rejected,Block and Sons,18,25,TX,Contract Management
-h0A4g000003xInVUSL,Rejected,Spinka Group,24,31,OK,Division of Aging
-h0E7v000006nEuQUQI,Rejected,Keeling-Raynor,6,28,TX,Audit Services
-h0L1s000005iXdQSZL,New,"Ward, Willms and Sanford",18,30,TX,Division of Disability and Rehabilitative Services
-h0P0b000008pUwKXPQ,Rejected,Hyatt-Graham,7,14,FL,Division of Aging
-h0P8u000009iSoMWCQ,Submitted,"Sanford, Kuhic and Bergnaum",19,26,TX,Division of Mental Health and Addiction
-h0Q4m000005vXiLIUV,Approved,Leuschke-Lakin,9,15,FL,Audit Services
-h0R4d000002lEqZZOA,Rejected,Kiehn-Ondricka,15,18,CA,Division of Disability and Rehabilitative Services
-h0T4p000002fRwBRBV,Rejected,"Haag, Lang and Quigley",3,10,OK,Audit Services
-h0U3p000005pMbUNXW,Approved,Kub and Sons,15,24,OK,Legislative Services
-h0X5p000005nRpTEJD,Draft,"Marquardt, Effertz and Funk",8,22,CA,Division of Aging
-h0Y2g000003pLdDCHM,Approved,Leffler-Towne,9,24,GA,Office of General Counsel
-h0Y4o000004eHeOLWN,New,"Monahan, Daniel and Reilly",14,26,GA,Technology
-i0A4n000005eTnENLX,Pending Approval,Sauer-O'Connell,20,25,GA,Office of General Counsel
-i0A5s000001aUmDEIM,Draft,"Kunde, O'Reilly and Steuber",19,29,TX,Technology
-i0A9f000002fPjEJZU,Draft,"Paucek, Brekke and Strosin",12,21,GA,Technology
-i0F3t000000gPdAXLM,Draft,"Ruecker, Krajcik and Morar",26,33,CA,Legislative Services
-i0H1q000005iIqUMPF,Submitted,Koelpin and Sons,3,15,TX,Technology
-i0I5z000004pEeHYIM,Pending Approval,"Grant, Pfeffer and Franecki",9,14,FL,Office of General Counsel
-i0J2t000007gJmQFAQ,Submitted,"Cruickshank, McClure and Wisoky",5,14,FL,Contract Management
-i0J9p000008jNuLFHX,Approved,Ullrich-Sanford,9,15,GA,Division of Mental Health and Addiction
-i0M6o000006uIeBFQR,Pending Approval,Purdy-Hyatt,3,21,TX,Disability Determination Bureau
-i0Q3h000002mJzMELR,New,"Dibbert, Zemlak and Williamson",4,7,TX,Technology
-i0U6t000000gYhAMWM,New,Ward-Swift,3,5,GA,Office of Early Childhood and Out-of-School Learning
-i0Z5y000008kPwNLKF,Rejected,Turner Group,18,31,TX,Division of Mental Health and Addiction
-j0J7d000003nIeFNGM,Pending Approval,Klein-Conroy,7,14,TX,Office of General Counsel
-j0K5y000008dKqQYMZ,Approved,Marquardt LLC,13,25,TX,Office of Medicaid Policy and Planning
-j0N9s000008hWnQNVW,New,D'Amore LLC,12,15,GA,Office of General Counsel
-j0O3k000008eIdNLDE,Draft,Bergnaum LLC,19,26,CA,Legislative Services
-j0P6i000004rXnBPEV,Rejected,"Parisian, McGlynn and Gibson",5,24,GA,Division of Mental Health and Addiction
-j0V7t000001rPqATRX,Submitted,"Hoppe, Kunze and Kihn",7,25,CA,Division of Mental Health and Addiction
-j0X8v000003vCrCSWZ,Draft,Jones Group,21,27,TX,Division of Family Resources
-j0X9a000009iNgICEE,New,Hackett-McKenzie,3,22,CA,Office of Communications and Media
-k0D3c000003tBgMZPH,Rejected,Bode Inc,18,31,OK,Office of Communications and Media
-k0G1q000009pNbGCAA,Rejected,Ullrich Inc,4,11,FL,Office of Early Childhood and Out-of-School Learning
-k0G2z000004pXjRWWP,Draft,"Turner, O'Hara and Maggio",2,4,CA,Office of Early Childhood and Out-of-School Learning
-k0G7s000008wAlQRFE,Rejected,Vandervort Group,14,21,OK,Office of Early Childhood and Out-of-School Learning
-k0J0c000006uRfTPSM,Submitted,"Schaefer, Von and Bins",4,11,FL,Legislative Services
-k0M7v000000rFyEXIA,New,Hilpert and Sons,15,22,OK,Technology
-k0N4r000009qMcTAUN,Approved,Heaney Group,19,25,OK,Technology
-k0P0c000005lMeQDOG,New,"Conroy, Cormier and Wilderman",5,25,OK,Office of General Counsel
-k0S8f000000hXeZIUL,Rejected,Tromp Group,23,28,OK,Division of Aging
-k0T1r000005xVoLRRK,Submitted,Huels-Kihn,5,14,GA,Division of Aging
-k0U2t000003wQjANZA,Rejected,"Homenick, Waters and Gusikowski",3,6,OK,Division of Disability and Rehabilitative Services
-k0X4a000001aPdYWFM,New,Kihn-Kilback,5,8,CA,Contract Management
-k0X7i000003tFsJIUE,New,Jaskolski Group,15,19,GA,Technology
-l0B5b000000wBzZKJH,New,"Marks, Batz and Jacobi",14,15,TX,Human Resources
-l0D2k000004nLjUIGO,Pending Approval,"Dach, Rohan and Zboncak",24,29,OK,Human Resources
-l0D9v000000cJqLHYM,Draft,Pollich-Crist,8,15,OK,Disability Determination Bureau
-l0G9n000004oEmWDKP,New,Gerlach and Sons,22,29,TX,Division of Aging
-l0J7g000002oDgMKHS,Rejected,"Ebert, Smitham and Bashirian",29,36,FL,Division of Disability and Rehabilitative Services
-l0K6p000002fEjIKGX,Draft,"Barrows, Jerde and McClure",5,12,GA,Division of Mental Health and Addiction
-l0N2p000003aBfFUCS,Draft,Graham-Upton,1,15,GA,Legislative Services
-l0Q9o000005pJaTOXY,Submitted,Spinka-Carroll,21,27,TX,Office of Communications and Media
-l0R4c000005xUiTJBH,Submitted,Considine-Considine,10,18,TX,Disability Determination Bureau
-l0S8f000008vDsNAIZ,Rejected,"Cartwright, Johns and Nitzsche",24,30,OK,Human Resources
-l0U9r000007nXyRAWW,Submitted,Crooks-Connelly,16,18,CA,Office of Communications and Media
-l0W8o000006wZcRAQT,Rejected,Welch LLC,13,15,GA,Division of Family Resources
-m0A5g000005zHsHPHO,Rejected,Roberts Inc,5,9,CA,Disability Determination Bureau
-m0B6j000006kUiHTPX,Rejected,"Runolfsdottir, Barton and Rolfson",15,22,CA,Division of Family Resources
-m0C4e000007xQpLSDE,Approved,"Ankunding, Feeney and Beatty",15,19,GA,Division of Finance
-m0E9n000001aLoPMJX,Rejected,Zulauf Group,1,7,TX,Office of Medicaid Policy and Planning
-m0H3e000008hUcMOLY,Pending Approval,"Goyette, Effertz and Wilderman",2,23,GA,Disability Determination Bureau
-m0I0k000001wVkIYXN,Pending Approval,Crona-Cremin,5,20,GA,Division of Finance
-m0J2o000007pXnFCSB,Rejected,Stroman-Schneider,5,27,FL,Division of Disability and Rehabilitative Services
-m0J3z000001uMgFWQM,Draft,"Ruecker, Johns and McCullough",8,30,CA,Division of Mental Health and Addiction
-m0N7j000007vMgXYGS,Pending Approval,Wiza Group,1,27,CA,Legislative Services
-m0S4c000008qXmUIZO,Draft,"Cassin, Nolan and Rolfson",15,22,OK,Division of Disability and Rehabilitative Services
-m0U3r000003nSsOEIA,Submitted,"Waters, Kuhic and Prosacco",12,14,TX,Division of Finance
-m0V5y000001aQjYTDZ,Submitted,"Doyle, Bogisich and Medhurst",7,19,CA,Audit Services
-m0X8g000005jDzNAEV,Submitted,"Herzog, Bogisich and Marvin",31,38,OK,Legislative Services
-m0Y0q000007cFqQFRI,Pending Approval,Ebert Group,1,25,CA,Office of Medicaid Policy and Planning
-m0Z1c000005mNnVZVC,Draft,Fay Group,6,8,FL,Office of General Counsel
-n0C4t000002uFwTAHE,Submitted,Kihn Inc,20,27,FL,Legislative Services
-n0F5t000006lNnARXL,Submitted,"Huels, Kuvalis and Blanda",5,11,CA,Office of Medicaid Policy and Planning
-n0G2n000002fYtERDB,Submitted,Pouros-Gorczany,4,11,GA,Office of Communications and Media
-n0J0a000009qLjMMGJ,Submitted,"Fadel, Bradtke and Trantow",5,30,GA,Human Resources
-n0L7d000005hNvKZCX,Rejected,"Cremin, Batz and Huel",5,30,GA,Division of Finance
-n0Q5s000000jAtJVBB,Draft,Borer-Hettinger,2,9,FL,Division of Family Resources
-n0U0j000009kYfXAJM,Rejected,Cruickshank-Hoeger,22,30,TX,Division of Disability and Rehabilitative Services
-n0U6x000005sTtNCSP,Rejected,Moore-Pfannerstill,11,22,TX,Office of Communications and Media
-n0Y5l000006gFiYMGP,Submitted,Wolff-Schumm,9,13,CA,Office of Communications and Media
-o0C1j000002cLuIULR,Rejected,Altenwerth-Kuhlman,22,28,TX,Office of General Counsel
-o0I0d000006oWgDOGM,New,"Hodkiewicz, Brown and Frami",7,9,TX,Technology
-o0J9o000008uBdFQNR,Draft,Wisozk LLC,11,12,OK,Division of Disability and Rehabilitative Services
-o0M0l000005gEmOWLD,Rejected,"Robel, Cartwright and Jerde",12,18,TX,Technology
-o0N0t000009zXvPYKT,New,"Schoen, Mitchell and Kovacek",13,20,FL,Technology
-o0O7l000008jHmDFJU,Draft,Beatty LLC,4,10,FL,Office of Communications and Media
-o0O8x000005oFfGYPB,Pending Approval,"Beier, Davis and Harvey",2,8,GA,Office of General Counsel
-o0R2w000006vUcSLNK,New,"Herzog, Stehr and Morissette",2,12,GA,Human Resources
-o0T5x000002aWdGBBK,Pending Approval,Berge Inc,2,30,GA,Contract Management
-o0W1w000000zSfKEXG,Approved,Stark Inc,20,27,FL,Division of Family Resources
-p0G2a000002jQmITTL,Submitted,Runte-Kertzmann,11,15,FL,Office of Communications and Media
-p0J4y000001cVsNJPH,Rejected,"Koepp, Ziemann and Balistreri",14,21,TX,Quality and Compliance Office
-p0S8o000000qMnUDLD,Approved,"Grady, Crooks and Lakin",3,5,FL,Division of Family Resources
-p0T4l000002yUrKYXU,Pending Approval,"Weimann, Larson and Wiza",22,29,CA,Disability Determination Bureau
-p0T8v000000wMrTCUJ,Draft,"Purdy, Halvorson and Langworth",30,37,FL,Human Resources
-p0U7b000006kYbRPRP,Pending Approval,"Kunde, Roberts and Welch",13,18,OK,Quality and Compliance Office
-p0X3a000003fLeDQKG,Pending Approval,Hand Group,17,26,GA,Division of Family Resources
-p0Y2v000000zXeSKVU,Draft,"Baumbach, Barton and Gusikowski",11,30,FL,Office of Communications and Media
-q0C5m000004nVoLVNN,Rejected,Collier Group,11,19,OK,Division of Finance
-q0C9w000000lDwDCNX,Approved,"Treutel, Tremblay and Swaniawski",24,25,OK,Division of Mental Health and Addiction
-q0J0b000005pYwYJPK,Submitted,Nicolas LLC,26,33,FL,Office of Communications and Media
-q0J0w000002qKgJALU,Submitted,King-Gottlieb,5,25,TX,Office of Early Childhood and Out-of-School Learning
-q0O7h000007jIySMIB,Draft,Schuster LLC,28,35,FL,Contract Management
-q0T5a000000vIqTCPA,New,Abbott Inc,13,19,OK,Legislative Services
-q0Y3u000006tNnKXZU,Rejected,"Klocko, Gutkowski and Mitchell",19,21,GA,Legislative Services
-q0Y6s000009hMxYQVG,Submitted,Cronin LLC,21,25,TX,Office of Communications and Media
-r0B8l000008eQzSOPU,Submitted,Russel Inc,3,10,TX,Office of Medicaid Policy and Planning
-r0C7r000007gGpDYYS,Draft,"Veum, Lindgren and Berge",2,28,TX,Division of Disability and Rehabilitative Services
-r0G9i000004hLcQPDW,Draft,Fritsch and Sons,9,16,TX,Division of Mental Health and Addiction
-r0J2p000003gEqGVBK,Draft,"Schuster, Schmidt and Zieme",21,28,FL,Division of Family Resources
-r0L3q000008mWmQBLA,Draft,Schneider-Simonis,26,28,FL,Human Resources
-r0L6q000001lMuHGOS,New,Gutmann-Rohan,9,12,CA,Division of Finance
-r0O1e000003qAcGAKU,Pending Approval,"Crist, Emmerich and Mertz",20,23,FL,Contract Management
-r0O1z000007iWgAYES,New,Renner Group,15,22,FL,Audit Services
-r0O5g000006bMpDYSO,Submitted,Beer-Mueller,17,26,FL,Human Resources
-r0P4p000007yItRQAI,New,Skiles-Metz,8,12,TX,Quality and Compliance Office
-r0Q3y000003dLiKZOD,Approved,Graham-Luettgen,15,23,TX,Division of Disability and Rehabilitative Services
-r0V3i000005bCpCNXM,New,"Daugherty, Lubowitz and Barrows",18,30,OK,Division of Aging
-r0X3u000002mBhPBFL,New,"Wilkinson, Lind and Monahan",1,8,TX,Office of General Counsel
-r0X8e000006kTaWDUJ,New,"Mayert, Hayes and Strosin",6,21,FL,Audit Services
-r0Z4u000008bHkQNQG,Submitted,Walsh LLC,4,22,GA,Division of Aging
-s0A4b000001nNnIMIZ,New,Thiel and Sons,28,35,OK,Division of Disability and Rehabilitative Services
-s0A9f000007lGuPZVV,New,Kulas-Steuber,5,15,FL,Division of Finance
-s0E8b000008rZvBDYN,New,Vandervort-Runolfsdottir,13,19,GA,Division of Disability and Rehabilitative Services
-s0H5w000003nGySDKL,Submitted,"Bartoletti, Abbott and Sanford",14,28,OK,Human Resources
-s0L2v000000sPmRDWX,Rejected,Berge Inc,21,28,GA,Division of Finance
-t0D2o000005jZpWOMC,Approved,Walker LLC,24,30,OK,Office of Medicaid Policy and Planning
-t0E7l000002rGmJGPW,Draft,"Mayer, Stehr and Daugherty",17,20,FL,Division of Aging
-t0G6k000000mNaXZCC,New,"Mante, Rutherford and Gusikowski",2,10,FL,Division of Aging
-t0H4g000004qUgXAEO,Pending Approval,"Rutherford, Cremin and Yundt",27,34,FL,Division of Disability and Rehabilitative Services
-t0J2l000008cYjTGNK,New,Gleason Inc,1,8,TX,Division of Finance
-t0J7x000006vZbXJFH,Rejected,Tromp LLC,2,6,GA,Technology
-t0L2e000008xZsMZGE,New,"Blick, Hoeger and Baumbach",7,28,CA,Division of Disability and Rehabilitative Services
-t0L9p000001hCeNQZS,Pending Approval,Jaskolski-Watsica,22,29,FL,Quality and Compliance Office
-t0M1z000007tTjURKI,Rejected,Boehm and Sons,9,21,CA,Technology
-t0M7w000006jVrLCGN,Rejected,Hermann LLC,9,21,CA,Technology
-t0P2g000009fXhMNVJ,Rejected,"Reilly, Weissnat and Hettinger",22,25,CA,Office of Early Childhood and Out-of-School Learning
-t0P3c000009sEcHHKR,Pending Approval,Bashirian and Sons,30,37,FL,Office of Communications and Media
-t0S1r000000sLpYIAM,Submitted,O'Reilly LLC,4,5,OK,Legislative Services
-t0Y7i000005yNjRHCG,Rejected,"Runolfsson, Bogisich and DuBuque",1,8,OK,Disability Determination Bureau
-u0A8w000006fMgPBCQ,Approved,"Nicolas, Aufderhar and Deckow",10,28,CA,Disability Determination Bureau
-u0B7d000004hYfJOJS,Pending Approval,"Schultz, Bradtke and MacGyver",20,27,OK,Division of Family Resources
-u0C1o000009dMhUEZM,Submitted,Beer and Sons,5,12,TX,Division of Mental Health and Addiction
-u0D5h000001sDsGWGI,Draft,Hintz and Sons,21,28,CA,Division of Finance
-u0D8i000003xNbTSPR,Approved,Keeling and Sons,21,27,GA,Office of Medicaid Policy and Planning
-u0D9a000005lVpKNMQ,Submitted,Wintheiser-Rowe,12,15,GA,Division of Family Resources
-u0F8d000004yEpOJTH,New,Orn Group,8,15,OK,Audit Services
-u0G6j000005pQoVBNJ,Rejected,Wilderman-Harber,14,21,CA,Office of Early Childhood and Out-of-School Learning
-u0H6z000005fOdESMN,Draft,Walker-Sporer,3,13,CA,Division of Mental Health and Addiction
-u0H9l000000oFhNPXO,Approved,Nikolaus Group,18,22,CA,Division of Mental Health and Addiction
-u0L3x000006hBcCQJR,Approved,Weber-Herman,6,7,OK,Disability Determination Bureau
-u0N8g000009aXjTQJK,Approved,"Jakubowski, Lockman and Homenick",12,18,CA,Legislative Services
-u0O0i000002rHhVPDU,Submitted,Gerlach Group,4,10,GA,Technology
-u0Q6z000000cKnCKUL,Rejected,"Wehner, Hegmann and Wiegand",27,34,GA,Division of Disability and Rehabilitative Services
-u0R0m000006rGtINHC,New,"Cormier, Hayes and Jacobi",17,20,CA,Contract Management
-u0R4g000003fUgFOYI,Submitted,"Fisher, Leannon and Weissnat",2,21,CA,Division of Finance
-u0R5j000006jUoZJUH,New,White-Kutch,14,15,FL,Office of Communications and Media
-u0U7v000009wYbZPJK,Approved,Schuppe-Armstrong,10,30,TX,Audit Services
-u0V4t000000nZcCUOR,Draft,Kling and Sons,8,15,TX,Office of Medicaid Policy and Planning
-u0V9x000000bZuMXDS,Draft,McKenzie-Padberg,10,14,GA,Disability Determination Bureau
-v0B1d000000yQbJDWW,Approved,Konopelski-Bogan,10,17,OK,Office of Medicaid Policy and Planning
-v0B2f000009pVsXYCN,Submitted,Flatley Group,30,37,GA,Contract Management
-v0H6k000008oNkWGDO,Rejected,Hamill and Sons,4,27,CA,Technology
-v0P0u000003vYfADCG,Approved,Kuvalis Inc,4,11,GA,Division of Family Resources
-v0Q8x000007ySeSLEW,Submitted,"Cruickshank, Nader and Durgan",19,22,TX,Office of Communications and Media
-v0S3x000008yPxMIUP,Submitted,Willms-Mosciski,6,23,GA,Human Resources
-v0S5j000006aXdONGR,Draft,"Weissnat, Kub and Gulgowski",21,30,CA,Technology
-v0U1o000009dWeKOEM,Approved,Hackett and Sons,1,4,OK,Division of Finance
-w0C8u000009jNfSZPE,Approved,Satterfield and Sons,13,19,TX,Office of Early Childhood and Out-of-School Learning
-w0C9y000001yLnDHEV,Submitted,Hegmann Inc,3,15,OK,Division of Mental Health and Addiction
-w0D7t000003jGsEBKX,Submitted,Eichmann-Blick,13,23,TX,Office of General Counsel
-w0G0x000009qGgKTSU,Approved,Olson-Schmidt,22,28,CA,Audit Services
-w0L9s000005eYiIMRW,Pending Approval,Sawayn-Leannon,5,9,CA,Division of Mental Health and Addiction
-w0N8g000005wCgTVMZ,Pending Approval,"Sipes, Hirthe and Hudson",4,7,OK,Audit Services
-w0W0u000008xTyVGIN,Draft,Hane-Marvin,14,20,OK,Division of Aging
-w0X7m000000yCnGBEZ,Rejected,"Koss, Maggio and Kunze",4,11,FL,Quality and Compliance Office
-w0Y2u000009mEuVTAP,Rejected,Sipes Inc,12,30,TX,Disability Determination Bureau
-w0Z6u000009iGeVFYB,Submitted,Pfeffer Inc,13,20,FL,Division of Finance
-x0J0o000009nZgZXLR,New,Ledner LLC,1,30,CA,Disability Determination Bureau
-x0K4q000009tXsNGAU,Rejected,"Considine, Pollich and Yost",14,23,TX,Technology
-x0M9k000002fZvMFYN,Submitted,Yost Inc,29,31,TX,Office of Medicaid Policy and Planning
-x0N2i000008hOkYSTV,New,"Walsh, Johnston and Ondricka",10,19,TX,Office of Medicaid Policy and Planning
-x0O4p000006cPhTEGZ,New,Bruen Inc,10,20,CA,Audit Services
-x0R5y000000vDqGRNL,Draft,"Kuphal, Reynolds and Schoen",29,36,FL,Contract Management
-x0S2c000006jMsAWOS,Rejected,Spencer-Ruecker,24,28,TX,Division of Finance
-y0A5f000003mHpRQBF,Rejected,Stokes-Lind,7,10,CA,Office of Medicaid Policy and Planning
-y0C5o000008lHsIVKY,New,Kling Inc,25,27,FL,Technology
-y0G3e000002nXhTSPD,Approved,Block-Denesik,8,9,OK,Audit Services
-y0H1i000007dXnMKAB,Submitted,"Kozey, Adams and Bauch",4,11,OK,Office of Early Childhood and Out-of-School Learning
-y0H5e000000tGtKDGB,Approved,Beatty Group,10,19,CA,Office of General Counsel
-y0I3e000002nKpOCKM,Pending Approval,Mertz-Mertz,1,22,TX,Contract Management
-y0I5p000007nPnUODC,Pending Approval,Ondricka-Satterfield,27,30,FL,Legislative Services
-y0N4d000008rNoMHMD,Pending Approval,"Schuster, Glover and O'Keefe",15,20,GA,Office of Early Childhood and Out-of-School Learning
-y0N6m000007rUyBLBL,Pending Approval,"Kuvalis, Muller and Kohler",29,36,GA,Office of Communications and Media
-y0O3f000002tTdJRYZ,Pending Approval,Medhurst-Brekke,4,28,OK,Division of Aging
-y0O7u000005vYaRFIU,Approved,Ullrich Group,19,22,GA,Office of Medicaid Policy and Planning
-y0P7g000008lAoEYDA,New,Jacobi-Ferry,2,12,OK,Office of Communications and Media
-y0Q2j000001qIoNVZY,Draft,Ritchie Inc,8,20,OK,Quality and Compliance Office
-y0X4l000005fJpLXVI,Rejected,"Parker, Gutmann and Kautzer",9,24,GA,Office of General Counsel
-y0Y1z000003eLbUJZY,Approved,"Weber, Russel and Christiansen",9,27,TX,Division of Finance
-y0Z8f000002fIqLKXR,Approved,Moore and Sons,3,7,FL,Division of Aging
-z0A3n000008zEsXCWJ,Pending Approval,"Block, Smith and Mertz",14,26,GA,Quality and Compliance Office
-z0G6e000008cWsXLTA,New,"Gottlieb, Braun and Swaniawski",6,15,GA,Division of Family Resources
-z0G9s000000nFsEQSQ,Submitted,Gislason-Williamson,2,31,CA,Contract Management
-z0K2h000003kQnPKZR,Draft,"Nitzsche, Witting and Bayer",2,29,FL,Human Resources
-z0L0s000007vSrYEYQ,Pending Approval,Hegmann and Sons,10,14,TX,Technology
-z0N0v000001tIwGDJK,Rejected,"Smitham, Considine and Smitham",2,14,TX,Division of Mental Health and Addiction
-z0N7g000002zEbTEBD,Submitted,Blanda Group,18,28,FL,Legislative Services
-z0O5e000005oNmCZFU,Pending Approval,Windler Group,15,20,GA,Division of Mental Health and Addiction
-z0U4b000004qKaEEZQ,Pending Approval,"Mohr, Schaefer and Kautzer",18,25,FL,Division of Aging
-z0V0p000003uUjTCXJ,Approved,Ward Group,11,18,OK,Contract Management
-z0Y6a000001jAqSUJL,Draft,Collins-Farrell,23,30,GA,Division of Family Resources
-z0Y6p000005kBtRBKM,Draft,"Kautzer, Beatty and Schneider",3,15,OK,Division of Disability and Rehabilitative Services
+External_Id__c,Status__c,Purpose_of_Trip__c,Trip_Start_Date__c,Trip_End_Date__c,Destination_State__c,Department__c,Dept_Code__c
+a0Q7l000005jGgYNYD,New,"Muller, Dach and Powlowski",10,27,OK,Audit Services,405-01
+e0L0z000001oAtEORK,Draft,Sporer-Collins,18,20,FL,Audit Services,405-01
+f0J4v000007nUuPGWF,New,Hilll-Lemke,7,14,FL,Audit Services,405-01
+g0X8r000001sHyGHDG,Draft,Wyman Group,4,31,FL,Audit Services,405-01
+h0E7v000006nEuQUQI,Rejected,Keeling-Raynor,6,28,TX,Audit Services,405-01
+h0Q4m000005vXiLIUV,Approved,Leuschke-Lakin,9,15,FL,Audit Services,405-01
+h0T4p000002fRwBRBV,Rejected,"Haag, Lang and Quigley",3,10,OK,Audit Services,405-01
+m0V5y000001aQjYTDZ,Submitted,"Doyle, Bogisich and Medhurst",7,19,CA,Audit Services,405-01
+r0O1z000007iWgAYES,New,Renner Group,15,22,FL,Audit Services,405-01
+r0X8e000006kTaWDUJ,New,"Mayert, Hayes and Strosin",6,21,FL,Audit Services,405-01
+u0F8d000004yEpOJTH,New,Orn Group,8,15,OK,Audit Services,405-01
+u0U7v000009wYbZPJK,Approved,Schuppe-Armstrong,10,30,TX,Audit Services,405-01
+w0G0x000009qGgKTSU,Approved,Olson-Schmidt,22,28,CA,Audit Services,405-01
+w0N8g000005wCgTVMZ,Pending Approval,"Sipes, Hirthe and Hudson",4,7,OK,Audit Services,405-01
+x0O4p000006cPhTEGZ,New,Bruen Inc,10,20,CA,Audit Services,405-01
+y0G3e000002nXhTSPD,Approved,Block-Denesik,8,9,OK,Audit Services,405-01
+a0S3f000006sQpPBPP,Submitted,"Kemmer, Kuhic and Windler",4,11,TX,Contract Management,405-02
+a0Y5p000008nZqFIKU,Submitted,Lebsack-Hettinger,20,24,FL,Contract Management,405-02
+b0Q1k000007cDgUGGH,Draft,Hand and Sons,23,29,CA,Contract Management,405-02
+c0B7r000007cQlKHPD,New,"Baumbach, Legros and Wisoky",4,11,TX,Contract Management,405-02
+d0E4x000005jLqTCVQ,Approved,Hilll-Roob,17,20,TX,Contract Management,405-02
+d0O7x000004sRbWZEB,New,Schulist-Cole,9,16,GA,Contract Management,405-02
+f0W8c000007lWoNQWU,Draft,King-Jacobson,4,30,GA,Contract Management,405-02
+g0C8i000004aVrYKDO,New,"Kerluke, Watsica and Labadie",8,14,FL,Contract Management,405-02
+h0A1x000006mKgYMEP,Rejected,Block and Sons,18,25,TX,Contract Management,405-02
+i0J2t000007gJmQFAQ,Submitted,"Cruickshank, McClure and Wisoky",5,14,FL,Contract Management,405-02
+k0X4a000001aPdYWFM,New,Kihn-Kilback,5,8,CA,Contract Management,405-02
+o0T5x000002aWdGBBK,Pending Approval,Berge Inc,2,30,GA,Contract Management,405-02
+q0O7h000007jIySMIB,Draft,Schuster LLC,28,35,FL,Contract Management,405-02
+r0O1e000003qAcGAKU,Pending Approval,"Crist, Emmerich and Mertz",20,23,FL,Contract Management,405-02
+u0R0m000006rGtINHC,New,"Cormier, Hayes and Jacobi",17,20,CA,Contract Management,405-02
+v0B2f000009pVsXYCN,Submitted,Flatley Group,30,37,GA,Contract Management,405-02
+x0R5y000000vDqGRNL,Draft,"Kuphal, Reynolds and Schoen",29,36,FL,Contract Management,405-02
+y0I3e000002nKpOCKM,Pending Approval,Mertz-Mertz,1,22,TX,Contract Management,405-02
+z0G9s000000nFsEQSQ,Submitted,Gislason-Williamson,2,31,CA,Contract Management,405-02
+z0V0p000003uUjTCXJ,Approved,Ward Group,11,18,OK,Contract Management,405-02
+c0K5d000006hTcQVTN,Submitted,Hintz LLC,28,35,OK,Disability Determination Bureau,405-06
+c0R5d000001yOeJFZY,Draft,"Willms, Fay and Hahn",20,27,OK,Disability Determination Bureau,405-06
+d0G6w000007xJbNDUP,Submitted,Lehner Group,4,10,OK,Disability Determination Bureau,405-06
+e0M4h000008fXrMGWS,Draft,Thiel LLC,10,27,TX,Disability Determination Bureau,405-06
+f0U8p000004xGpLMZV,New,Mitchell-Gibson,20,22,FL,Disability Determination Bureau,405-06
+g0C7b000000vDmDQQX,Approved,Senger-Schowalter,21,25,GA,Disability Determination Bureau,405-06
+g0M5w000009ePvVYOV,Rejected,"Morissette, Lang and Kris",15,22,TX,Disability Determination Bureau,405-06
+i0M6o000006uIeBFQR,Pending Approval,Purdy-Hyatt,3,21,TX,Disability Determination Bureau,405-06
+l0D9v000000cJqLHYM,Draft,Pollich-Crist,8,15,OK,Disability Determination Bureau,405-06
+l0R4c000005xUiTJBH,Submitted,Considine-Considine,10,18,TX,Disability Determination Bureau,405-06
+m0A5g000005zHsHPHO,Rejected,Roberts Inc,5,9,CA,Disability Determination Bureau,405-06
+m0H3e000008hUcMOLY,Pending Approval,"Goyette, Effertz and Wilderman",2,23,GA,Disability Determination Bureau,405-06
+p0T4l000002yUrKYXU,Pending Approval,"Weimann, Larson and Wiza",22,29,CA,Disability Determination Bureau,405-06
+t0Y7i000005yNjRHCG,Rejected,"Runolfsson, Bogisich and DuBuque",1,8,OK,Disability Determination Bureau,405-06
+u0A8w000006fMgPBCQ,Approved,"Nicolas, Aufderhar and Deckow",10,28,CA,Disability Determination Bureau,405-06
+u0L3x000006hBcCQJR,Approved,Weber-Herman,6,7,OK,Disability Determination Bureau,405-06
+u0V9x000000bZuMXDS,Draft,McKenzie-Padberg,10,14,GA,Disability Determination Bureau,405-06
+w0Y2u000009mEuVTAP,Rejected,Sipes Inc,12,30,TX,Disability Determination Bureau,405-06
+x0J0o000009nZgZXLR,New,Ledner LLC,1,30,CA,Disability Determination Bureau,405-06
+c0E4x000000vTfZTCT,Rejected,"Homenick, Blanda and Hoppe",5,11,GA,Division of Aging,405-11
+c0L5x000007jAxNNCS,New,"Rutherford, Glover and Gerhold",11,18,TX,Division of Aging,405-11
+e0S0f000005zXcEGBT,New,Hoeger-Crist,6,14,FL,Division of Aging,405-11
+f0N7u000005vUrSBLH,Draft,Witting and Sons,24,30,OK,Division of Aging,405-11
+f0N7z000002dPxVLTN,New,Lind-Cormier,8,24,GA,Division of Aging,405-11
+g0K7y000004wCtCMZV,Approved,Altenwerth-Crooks,17,20,FL,Division of Aging,405-11
+h0A4g000003xInVUSL,Rejected,Spinka Group,24,31,OK,Division of Aging,405-11
+h0P0b000008pUwKXPQ,Rejected,Hyatt-Graham,7,14,FL,Division of Aging,405-11
+h0X5p000005nRpTEJD,Draft,"Marquardt, Effertz and Funk",8,22,CA,Division of Aging,405-11
+k0S8f000000hXeZIUL,Rejected,Tromp Group,23,28,OK,Division of Aging,405-11
+k0T1r000005xVoLRRK,Submitted,Huels-Kihn,5,14,GA,Division of Aging,405-11
+l0G9n000004oEmWDKP,New,Gerlach and Sons,22,29,TX,Division of Aging,405-11
+r0V3i000005bCpCNXM,New,"Daugherty, Lubowitz and Barrows",18,30,OK,Division of Aging,405-11
+r0Z4u000008bHkQNQG,Submitted,Walsh LLC,4,22,GA,Division of Aging,405-11
+t0E7l000002rGmJGPW,Draft,"Mayer, Stehr and Daugherty",17,20,FL,Division of Aging,405-11
+t0G6k000000mNaXZCC,New,"Mante, Rutherford and Gusikowski",2,10,FL,Division of Aging,405-11
+w0W0u000008xTyVGIN,Draft,Hane-Marvin,14,20,OK,Division of Aging,405-11
+y0O3f000002tTdJRYZ,Pending Approval,Medhurst-Brekke,4,28,OK,Division of Aging,405-11
+y0Z8f000002fIqLKXR,Approved,Moore and Sons,3,7,FL,Division of Aging,405-11
+z0U4b000004qKaEEZQ,Pending Approval,"Mohr, Schaefer and Kautzer",18,25,FL,Division of Aging,405-11
+c0H8m000000pGhQIBL,Approved,Wintheiser-DuBuque,6,12,FL,Division of Disability and Rehabilitative Services,405-12
+c0R5t000005oHvVCLY,Draft,Herzog Group,23,26,OK,Division of Disability and Rehabilitative Services,405-12
+c0T1a000008qSdBEAK,Submitted,Ritchie-Corkery,12,22,CA,Division of Disability and Rehabilitative Services,405-12
+d0N5p000007nDoYYII,Pending Approval,Sawayn-King,19,20,CA,Division of Disability and Rehabilitative Services,405-12
+e0U4p000001gOeZLSM,Rejected,Dicki-Rath,7,14,GA,Division of Disability and Rehabilitative Services,405-12
+h0L1s000005iXdQSZL,New,"Ward, Willms and Sanford",18,30,TX,Division of Disability and Rehabilitative Services,405-12
+h0R4d000002lEqZZOA,Rejected,Kiehn-Ondricka,15,18,CA,Division of Disability and Rehabilitative Services,405-12
+k0U2t000003wQjANZA,Rejected,"Homenick, Waters and Gusikowski",3,6,OK,Division of Disability and Rehabilitative Services,405-12
+l0J7g000002oDgMKHS,Rejected,"Ebert, Smitham and Bashirian",29,36,FL,Division of Disability and Rehabilitative Services,405-12
+m0J2o000007pXnFCSB,Rejected,Stroman-Schneider,5,27,FL,Division of Disability and Rehabilitative Services,405-12
+m0S4c000008qXmUIZO,Draft,"Cassin, Nolan and Rolfson",15,22,OK,Division of Disability and Rehabilitative Services,405-12
+n0U0j000009kYfXAJM,Rejected,Cruickshank-Hoeger,22,30,TX,Division of Disability and Rehabilitative Services,405-12
+o0J9o000008uBdFQNR,Draft,Wisozk LLC,11,12,OK,Division of Disability and Rehabilitative Services,405-12
+r0C7r000007gGpDYYS,Draft,"Veum, Lindgren and Berge",2,28,TX,Division of Disability and Rehabilitative Services,405-12
+r0Q3y000003dLiKZOD,Approved,Graham-Luettgen,15,23,TX,Division of Disability and Rehabilitative Services,405-12
+s0A4b000001nNnIMIZ,New,Thiel and Sons,28,35,OK,Division of Disability and Rehabilitative Services,405-12
+s0E8b000008rZvBDYN,New,Vandervort-Runolfsdottir,13,19,GA,Division of Disability and Rehabilitative Services,405-12
+t0H4g000004qUgXAEO,Pending Approval,"Rutherford, Cremin and Yundt",27,34,FL,Division of Disability and Rehabilitative Services,405-12
+t0L2e000008xZsMZGE,New,"Blick, Hoeger and Baumbach",7,28,CA,Division of Disability and Rehabilitative Services,405-12
+u0Q6z000000cKnCKUL,Rejected,"Wehner, Hegmann and Wiegand",27,34,GA,Division of Disability and Rehabilitative Services,405-12
+z0Y6p000005kBtRBKM,Draft,"Kautzer, Beatty and Schneider",3,15,OK,Division of Disability and Rehabilitative Services,405-12
+c0P3f000007bHzQXNP,Approved,"Farrell, Tremblay and Mills",17,29,CA,Division of Family Resources,405-13
+d0L4r000001hNgFMNX,Approved,"Beer, Eichmann and Grimes",6,24,CA,Division of Family Resources,405-13
+f0T3f000004vTuBMUO,Approved,"Nitzsche, Reichert and Johns",8,20,GA,Division of Family Resources,405-13
+f0U1c000000kYxNPKY,Pending Approval,"Jerde, Funk and Kuhn",11,30,TX,Division of Family Resources,405-13
+g0G0i000008qOoNXAA,New,Halvorson LLC,1,8,TX,Division of Family Resources,405-13
+j0X8v000003vCrCSWZ,Draft,Jones Group,21,27,TX,Division of Family Resources,405-13
+l0W8o000006wZcRAQT,Rejected,Welch LLC,13,15,GA,Division of Family Resources,405-13
+m0B6j000006kUiHTPX,Rejected,"Runolfsdottir, Barton and Rolfson",15,22,CA,Division of Family Resources,405-13
+n0Q5s000000jAtJVBB,Draft,Borer-Hettinger,2,9,FL,Division of Family Resources,405-13
+o0W1w000000zSfKEXG,Approved,Stark Inc,20,27,FL,Division of Family Resources,405-13
+p0S8o000000qMnUDLD,Approved,"Grady, Crooks and Lakin",3,5,FL,Division of Family Resources,405-13
+p0X3a000003fLeDQKG,Pending Approval,Hand Group,17,26,GA,Division of Family Resources,405-13
+r0J2p000003gEqGVBK,Draft,"Schuster, Schmidt and Zieme",21,28,FL,Division of Family Resources,405-13
+u0B7d000004hYfJOJS,Pending Approval,"Schultz, Bradtke and MacGyver",20,27,OK,Division of Family Resources,405-13
+u0D9a000005lVpKNMQ,Submitted,Wintheiser-Rowe,12,15,GA,Division of Family Resources,405-13
+v0P0u000003vYfADCG,Approved,Kuvalis Inc,4,11,GA,Division of Family Resources,405-13
+z0G6e000008cWsXLTA,New,"Gottlieb, Braun and Swaniawski",6,15,GA,Division of Family Resources,405-13
+z0Y6a000001jAqSUJL,Draft,Collins-Farrell,23,30,GA,Division of Family Resources,405-13
+b0V0x000009jHkUFHE,New,"Abernathy, Beatty and Leffler",9,16,CA,Division of Finance,405-03
+c0K2w000004bFaZBOE,New,"Wehner, Wilkinson and Gulgowski",5,6,TX,Division of Finance,405-03
+d0T6u000006mZdNABJ,Draft,Howell-Douglas,3,10,GA,Division of Finance,405-03
+f0P6m000003cHlWZBZ,Draft,Runte LLC,18,20,FL,Division of Finance,405-03
+m0C4e000007xQpLSDE,Approved,"Ankunding, Feeney and Beatty",15,19,GA,Division of Finance,405-03
+m0I0k000001wVkIYXN,Pending Approval,Crona-Cremin,5,20,GA,Division of Finance,405-03
+m0U3r000003nSsOEIA,Submitted,"Waters, Kuhic and Prosacco",12,14,TX,Division of Finance,405-03
+n0L7d000005hNvKZCX,Rejected,"Cremin, Batz and Huel",5,30,GA,Division of Finance,405-03
+q0C5m000004nVoLVNN,Rejected,Collier Group,11,19,OK,Division of Finance,405-03
+r0L6q000001lMuHGOS,New,Gutmann-Rohan,9,12,CA,Division of Finance,405-03
+s0A9f000007lGuPZVV,New,Kulas-Steuber,5,15,FL,Division of Finance,405-03
+s0L2v000000sPmRDWX,Rejected,Berge Inc,21,28,GA,Division of Finance,405-03
+t0J2l000008cYjTGNK,New,Gleason Inc,1,8,TX,Division of Finance,405-03
+u0D5h000001sDsGWGI,Draft,Hintz and Sons,21,28,CA,Division of Finance,405-03
+u0R4g000003fUgFOYI,Submitted,"Fisher, Leannon and Weissnat",2,21,CA,Division of Finance,405-03
+v0U1o000009dWeKOEM,Approved,Hackett and Sons,1,4,OK,Division of Finance,405-03
+w0Z6u000009iGeVFYB,Submitted,Pfeffer Inc,13,20,FL,Division of Finance,405-03
+x0S2c000006jMsAWOS,Rejected,Spencer-Ruecker,24,28,TX,Division of Finance,405-03
+y0Y1z000003eLbUJZY,Approved,"Weber, Russel and Christiansen",9,27,TX,Division of Finance,405-03
+g0Y5v000009aMfRTBS,Draft,Ondricka-Glover,19,21,GA,Division of Mental Health and Addiction,405-14
+h0P8u000009iSoMWCQ,Submitted,"Sanford, Kuhic and Bergnaum",19,26,TX,Division of Mental Health and Addiction,405-14
+i0J9p000008jNuLFHX,Approved,Ullrich-Sanford,9,15,GA,Division of Mental Health and Addiction,405-14
+i0Z5y000008kPwNLKF,Rejected,Turner Group,18,31,TX,Division of Mental Health and Addiction,405-14
+j0P6i000004rXnBPEV,Rejected,"Parisian, McGlynn and Gibson",5,24,GA,Division of Mental Health and Addiction,405-14
+j0V7t000001rPqATRX,Submitted,"Hoppe, Kunze and Kihn",7,25,CA,Division of Mental Health and Addiction,405-14
+l0K6p000002fEjIKGX,Draft,"Barrows, Jerde and McClure",5,12,GA,Division of Mental Health and Addiction,405-14
+m0J3z000001uMgFWQM,Draft,"Ruecker, Johns and McCullough",8,30,CA,Division of Mental Health and Addiction,405-14
+q0C9w000000lDwDCNX,Approved,"Treutel, Tremblay and Swaniawski",24,25,OK,Division of Mental Health and Addiction,405-14
+r0G9i000004hLcQPDW,Draft,Fritsch and Sons,9,16,TX,Division of Mental Health and Addiction,405-14
+u0C1o000009dMhUEZM,Submitted,Beer and Sons,5,12,TX,Division of Mental Health and Addiction,405-14
+u0H6z000005fOdESMN,Draft,Walker-Sporer,3,13,CA,Division of Mental Health and Addiction,405-14
+u0H9l000000oFhNPXO,Approved,Nikolaus Group,18,22,CA,Division of Mental Health and Addiction,405-14
+w0C9y000001yLnDHEV,Submitted,Hegmann Inc,3,15,OK,Division of Mental Health and Addiction,405-14
+w0L9s000005eYiIMRW,Pending Approval,Sawayn-Leannon,5,9,CA,Division of Mental Health and Addiction,405-14
+z0N0v000001tIwGDJK,Rejected,"Smitham, Considine and Smitham",2,14,TX,Division of Mental Health and Addiction,405-14
+z0O5e000005oNmCZFU,Pending Approval,Windler Group,15,20,GA,Division of Mental Health and Addiction,405-14
+b0Q6h000002oNsGSSJ,Draft,Senger-Schumm,5,27,FL,Human Resources,405-07
+c0I5i000007iVpLGQO,Rejected,Hammes and Sons,5,29,FL,Human Resources,405-07
+c0X5b000005sQzUZRT,Submitted,McKenzie Inc,8,27,GA,Human Resources,405-07
+e0D1w000004sJcTNGY,Pending Approval,"Bednar, Walsh and DuBuque",11,26,OK,Human Resources,405-07
+g0E1h000003bKtIDLI,New,"Stamm, Pouros and Bechtelar",21,28,FL,Human Resources,405-07
+g0P4g000004pUfAXAF,Pending Approval,Fritsch-Johnston,9,11,FL,Human Resources,405-07
+g0X4t000003pEhWZPO,Submitted,Tromp-Wiza,1,29,FL,Human Resources,405-07
+l0B5b000000wBzZKJH,New,"Marks, Batz and Jacobi",14,15,TX,Human Resources,405-07
+l0D2k000004nLjUIGO,Pending Approval,"Dach, Rohan and Zboncak",24,29,OK,Human Resources,405-07
+l0S8f000008vDsNAIZ,Rejected,"Cartwright, Johns and Nitzsche",24,30,OK,Human Resources,405-07
+n0J0a000009qLjMMGJ,Submitted,"Fadel, Bradtke and Trantow",5,30,GA,Human Resources,405-07
+o0R2w000006vUcSLNK,New,"Herzog, Stehr and Morissette",2,12,GA,Human Resources,405-07
+p0T8v000000wMrTCUJ,Draft,"Purdy, Halvorson and Langworth",30,37,FL,Human Resources,405-07
+r0L3q000008mWmQBLA,Draft,Schneider-Simonis,26,28,FL,Human Resources,405-07
+r0O5g000006bMpDYSO,Submitted,Beer-Mueller,17,26,FL,Human Resources,405-07
+s0H5w000003nGySDKL,Submitted,"Bartoletti, Abbott and Sanford",14,28,OK,Human Resources,405-07
+v0S3x000008yPxMIUP,Submitted,Willms-Mosciski,6,23,GA,Human Resources,405-07
+z0K2h000003kQnPKZR,Draft,"Nitzsche, Witting and Bayer",2,29,FL,Human Resources,405-07
+b0V5g000003hSlEQMD,Submitted,Adams-Halvorson,20,23,TX,Legislative Services,405-08
+d0D6h000007uSfECES,Pending Approval,"Sauer, Franecki and VonRueden",14,26,OK,Legislative Services,405-08
+d0O8w000009cWlEOZE,Pending Approval,Wintheiser-Romaguera,3,10,TX,Legislative Services,405-08
+e0I6r000004mUdUVSO,Pending Approval,"Kautzer, Fisher and Kiehn",7,14,OK,Legislative Services,405-08
+f0E8q000008xQwDPDJ,Pending Approval,"Wunsch, Larkin and Hamill",20,25,CA,Legislative Services,405-08
+h0U3p000005pMbUNXW,Approved,Kub and Sons,15,24,OK,Legislative Services,405-08
+i0F3t000000gPdAXLM,Draft,"Ruecker, Krajcik and Morar",26,33,CA,Legislative Services,405-08
+j0O3k000008eIdNLDE,Draft,Bergnaum LLC,19,26,CA,Legislative Services,405-08
+k0J0c000006uRfTPSM,Submitted,"Schaefer, Von and Bins",4,11,FL,Legislative Services,405-08
+l0N2p000003aBfFUCS,Draft,Graham-Upton,1,15,GA,Legislative Services,405-08
+m0N7j000007vMgXYGS,Pending Approval,Wiza Group,1,27,CA,Legislative Services,405-08
+m0X8g000005jDzNAEV,Submitted,"Herzog, Bogisich and Marvin",31,38,OK,Legislative Services,405-08
+n0C4t000002uFwTAHE,Submitted,Kihn Inc,20,27,FL,Legislative Services,405-08
+q0T5a000000vIqTCPA,New,Abbott Inc,13,19,OK,Legislative Services,405-08
+q0Y3u000006tNnKXZU,Rejected,"Klocko, Gutkowski and Mitchell",19,21,GA,Legislative Services,405-08
+t0S1r000000sLpYIAM,Submitted,O'Reilly LLC,4,5,OK,Legislative Services,405-08
+u0N8g000009aXjTQJK,Approved,"Jakubowski, Lockman and Homenick",12,18,CA,Legislative Services,405-08
+y0I5p000007nPnUODC,Pending Approval,Ondricka-Satterfield,27,30,FL,Legislative Services,405-08
+z0N7g000002zEbTEBD,Submitted,Blanda Group,18,28,FL,Legislative Services,405-08
+a0S1i000008nYpVAFX,Rejected,"Grimes, McClure and Gleichner",17,20,TX,Office of Communications and Media,405-09
+a0X5x000003qFbQMDC,Submitted,"Upton, Murphy and Block",19,26,FL,Office of Communications and Media,405-09
+b0Z9e000009kKjKSYV,New,Smitham and Sons,10,20,CA,Office of Communications and Media,405-09
+f0B9j000003cNlJAND,Draft,Stracke LLC,12,15,TX,Office of Communications and Media,405-09
+f0K5y000008tEtVKJG,Rejected,Hodkiewicz LLC,7,19,TX,Office of Communications and Media,405-09
+f0Z9e000003iVeTIYW,Draft,Streich LLC,12,19,FL,Office of Communications and Media,405-09
+g0X2n000002vZmVGMO,Rejected,"Hickle, Champlin and Heathcote",4,25,GA,Office of Communications and Media,405-09
+j0X9a000009iNgICEE,New,Hackett-McKenzie,3,22,CA,Office of Communications and Media,405-09
+k0D3c000003tBgMZPH,Rejected,Bode Inc,18,31,OK,Office of Communications and Media,405-09
+l0Q9o000005pJaTOXY,Submitted,Spinka-Carroll,21,27,TX,Office of Communications and Media,405-09
+l0U9r000007nXyRAWW,Submitted,Crooks-Connelly,16,18,CA,Office of Communications and Media,405-09
+n0G2n000002fYtERDB,Submitted,Pouros-Gorczany,4,11,GA,Office of Communications and Media,405-09
+n0U6x000005sTtNCSP,Rejected,Moore-Pfannerstill,11,22,TX,Office of Communications and Media,405-09
+n0Y5l000006gFiYMGP,Submitted,Wolff-Schumm,9,13,CA,Office of Communications and Media,405-09
+o0O7l000008jHmDFJU,Draft,Beatty LLC,4,10,FL,Office of Communications and Media,405-09
+p0G2a000002jQmITTL,Submitted,Runte-Kertzmann,11,15,FL,Office of Communications and Media,405-09
+p0Y2v000000zXeSKVU,Draft,"Baumbach, Barton and Gusikowski",11,30,FL,Office of Communications and Media,405-09
+q0J0b000005pYwYJPK,Submitted,Nicolas LLC,26,33,FL,Office of Communications and Media,405-09
+q0Y6s000009hMxYQVG,Submitted,Cronin LLC,21,25,TX,Office of Communications and Media,405-09
+t0P3c000009sEcHHKR,Pending Approval,Bashirian and Sons,30,37,FL,Office of Communications and Media,405-09
+u0R5j000006jUoZJUH,New,White-Kutch,14,15,FL,Office of Communications and Media,405-09
+v0Q8x000007ySeSLEW,Submitted,"Cruickshank, Nader and Durgan",19,22,TX,Office of Communications and Media,405-09
+y0N6m000007rUyBLBL,Pending Approval,"Kuvalis, Muller and Kohler",29,36,GA,Office of Communications and Media,405-09
+y0P7g000008lAoEYDA,New,Jacobi-Ferry,2,12,OK,Office of Communications and Media,405-09
+c0I8b000000tUrJIQR,Submitted,"Emmerich, Koch and Zemlak",2,31,FL,Office of Early Childhood and Out-of-School Learning,405-16
+c0O2m000001oAsMPJE,Approved,Lowe LLC,30,37,TX,Office of Early Childhood and Out-of-School Learning,405-16
+e0D9i000007tUqINWW,New,Morissette Group,2,12,OK,Office of Early Childhood and Out-of-School Learning,405-16
+e0Z0y000009uIoSFZT,New,Rogahn Group,4,11,GA,Office of Early Childhood and Out-of-School Learning,405-16
+f0E6v000009nAgSAKU,Rejected,Ondricka LLC,18,30,GA,Office of Early Childhood and Out-of-School Learning,405-16
+f0V0p000003wQtLIYH,Rejected,White and Sons,4,31,GA,Office of Early Childhood and Out-of-School Learning,405-16
+g0F7m000006vBiBHQL,Pending Approval,"Anderson, Berge and Schinner",17,18,TX,Office of Early Childhood and Out-of-School Learning,405-16
+g0W1r000000xAzSJTO,Draft,Ebert Inc,5,23,OK,Office of Early Childhood and Out-of-School Learning,405-16
+g0Z1s000000dChEWEM,Submitted,"Powlowski, Schaefer and Macejkovic",11,27,GA,Office of Early Childhood and Out-of-School Learning,405-16
+i0U6t000000gYhAMWM,New,Ward-Swift,3,5,GA,Office of Early Childhood and Out-of-School Learning,405-16
+k0G1q000009pNbGCAA,Rejected,Ullrich Inc,4,11,FL,Office of Early Childhood and Out-of-School Learning,405-16
+k0G2z000004pXjRWWP,Draft,"Turner, O'Hara and Maggio",2,4,CA,Office of Early Childhood and Out-of-School Learning,405-16
+k0G7s000008wAlQRFE,Rejected,Vandervort Group,14,21,OK,Office of Early Childhood and Out-of-School Learning,405-16
+q0J0w000002qKgJALU,Submitted,King-Gottlieb,5,25,TX,Office of Early Childhood and Out-of-School Learning,405-16
+t0P2g000009fXhMNVJ,Rejected,"Reilly, Weissnat and Hettinger",22,25,CA,Office of Early Childhood and Out-of-School Learning,405-16
+u0G6j000005pQoVBNJ,Rejected,Wilderman-Harber,14,21,CA,Office of Early Childhood and Out-of-School Learning,405-16
+w0C8u000009jNfSZPE,Approved,Satterfield and Sons,13,19,TX,Office of Early Childhood and Out-of-School Learning,405-16
+y0H1i000007dXnMKAB,Submitted,"Kozey, Adams and Bauch",4,11,OK,Office of Early Childhood and Out-of-School Learning,405-16
+y0N4d000008rNoMHMD,Pending Approval,"Schuster, Glover and O'Keefe",15,20,GA,Office of Early Childhood and Out-of-School Learning,405-16
+b0O5y000000aRrQHRZ,Submitted,"Lehner, Robel and Botsford",21,26,TX,Office of General Counsel,405-10
+b0T7s000001sImZDZZ,Submitted,"McKenzie, Brown and Trantow",27,30,TX,Office of General Counsel,405-10
+c0F0f000008zYbIIWZ,Submitted,"Huel, Torphy and Lowe",20,27,TX,Office of General Counsel,405-10
+d0R1y000000uCvJSCH,New,Stehr Group,15,19,TX,Office of General Counsel,405-10
+f0L5g000004iFuEVEP,Submitted,"Murazik, Hoeger and Bode",3,22,FL,Office of General Counsel,405-10
+h0Y2g000003pLdDCHM,Approved,Leffler-Towne,9,24,GA,Office of General Counsel,405-10
+i0A4n000005eTnENLX,Pending Approval,Sauer-O'Connell,20,25,GA,Office of General Counsel,405-10
+i0I5z000004pEeHYIM,Pending Approval,"Grant, Pfeffer and Franecki",9,14,FL,Office of General Counsel,405-10
+j0J7d000003nIeFNGM,Pending Approval,Klein-Conroy,7,14,TX,Office of General Counsel,405-10
+j0N9s000008hWnQNVW,New,D'Amore LLC,12,15,GA,Office of General Counsel,405-10
+k0P0c000005lMeQDOG,New,"Conroy, Cormier and Wilderman",5,25,OK,Office of General Counsel,405-10
+m0Z1c000005mNnVZVC,Draft,Fay Group,6,8,FL,Office of General Counsel,405-10
+o0C1j000002cLuIULR,Rejected,Altenwerth-Kuhlman,22,28,TX,Office of General Counsel,405-10
+o0O8x000005oFfGYPB,Pending Approval,"Beier, Davis and Harvey",2,8,GA,Office of General Counsel,405-10
+r0X3u000002mBhPBFL,New,"Wilkinson, Lind and Monahan",1,8,TX,Office of General Counsel,405-10
+w0D7t000003jGsEBKX,Submitted,Eichmann-Blick,13,23,TX,Office of General Counsel,405-10
+y0H5e000000tGtKDGB,Approved,Beatty Group,10,19,CA,Office of General Counsel,405-10
+y0X4l000005fJpLXVI,Rejected,"Parker, Gutmann and Kautzer",9,24,GA,Office of General Counsel,405-10
+b0L8g000002jWwIRPW,Pending Approval,Mitchell Group,23,30,OK,Office of Medicaid Policy and Planning,405-15
+f0X3g000003nTdFDCY,Draft,"Kunde, Miller and Schmitt",19,31,CA,Office of Medicaid Policy and Planning,405-15
+j0K5y000008dKqQYMZ,Approved,Marquardt LLC,13,25,TX,Office of Medicaid Policy and Planning,405-15
+m0E9n000001aLoPMJX,Rejected,Zulauf Group,1,7,TX,Office of Medicaid Policy and Planning,405-15
+m0Y0q000007cFqQFRI,Pending Approval,Ebert Group,1,25,CA,Office of Medicaid Policy and Planning,405-15
+n0F5t000006lNnARXL,Submitted,"Huels, Kuvalis and Blanda",5,11,CA,Office of Medicaid Policy and Planning,405-15
+r0B8l000008eQzSOPU,Submitted,Russel Inc,3,10,TX,Office of Medicaid Policy and Planning,405-15
+t0D2o000005jZpWOMC,Approved,Walker LLC,24,30,OK,Office of Medicaid Policy and Planning,405-15
+u0D8i000003xNbTSPR,Approved,Keeling and Sons,21,27,GA,Office of Medicaid Policy and Planning,405-15
+u0V4t000000nZcCUOR,Draft,Kling and Sons,8,15,TX,Office of Medicaid Policy and Planning,405-15
+v0B1d000000yQbJDWW,Approved,Konopelski-Bogan,10,17,OK,Office of Medicaid Policy and Planning,405-15
+x0M9k000002fZvMFYN,Submitted,Yost Inc,29,31,TX,Office of Medicaid Policy and Planning,405-15
+x0N2i000008hOkYSTV,New,"Walsh, Johnston and Ondricka",10,19,TX,Office of Medicaid Policy and Planning,405-15
+y0A5f000003mHpRQBF,Rejected,Stokes-Lind,7,10,CA,Office of Medicaid Policy and Planning,405-15
+y0O7u000005vYaRFIU,Approved,Ullrich Group,19,22,GA,Office of Medicaid Policy and Planning,405-15
+c0R8c000000kShFFNR,Approved,"Reichert, Connelly and Davis",27,34,FL,Quality and Compliance Office,405-04
+c0T3q000000xQsCABW,Draft,Buckridge-Walsh,28,30,FL,Quality and Compliance Office,405-04
+f0E6y000005zAzZZBT,Approved,"Bauch, Bosco and Morissette",5,12,CA,Quality and Compliance Office,405-04
+g0N9u000001kAkLSAW,Submitted,Brown Inc,2,15,CA,Quality and Compliance Office,405-04
+p0J4y000001cVsNJPH,Rejected,"Koepp, Ziemann and Balistreri",14,21,TX,Quality and Compliance Office,405-04
+p0U7b000006kYbRPRP,Pending Approval,"Kunde, Roberts and Welch",13,18,OK,Quality and Compliance Office,405-04
+r0P4p000007yItRQAI,New,Skiles-Metz,8,12,TX,Quality and Compliance Office,405-04
+t0L9p000001hCeNQZS,Pending Approval,Jaskolski-Watsica,22,29,FL,Quality and Compliance Office,405-04
+w0X7m000000yCnGBEZ,Rejected,"Koss, Maggio and Kunze",4,11,FL,Quality and Compliance Office,405-04
+y0Q2j000001qIoNVZY,Draft,Ritchie Inc,8,20,OK,Quality and Compliance Office,405-04
+z0A3n000008zEsXCWJ,Pending Approval,"Block, Smith and Mertz",14,26,GA,Quality and Compliance Office,405-04
+a0M5w000002kOgVJXL,Approved,Monahan Group,4,11,GA,Technology,405-05
+a0X0d000008hSySBMR,Pending Approval,"Romaguera, Muller and Schulist",6,9,TX,Technology,405-05
+b0T7h000006jOfCVTE,Draft,"O'Reilly, Franecki and Romaguera",8,18,FL,Technology,405-05
+e0E1l000007dQlGOQE,Draft,Jaskolski-Murray,21,31,CA,Technology,405-05
+e0T5y000007qWyVIQE,New,Kutch-Ebert,21,31,FL,Technology,405-05
+f0Q1q000002yUqFXZS,Pending Approval,"Hodkiewicz, Gerlach and Beer",4,10,CA,Technology,405-05
+h0Y4o000004eHeOLWN,New,"Monahan, Daniel and Reilly",14,26,GA,Technology,405-05
+i0A5s000001aUmDEIM,Draft,"Kunde, O'Reilly and Steuber",19,29,TX,Technology,405-05
+i0A9f000002fPjEJZU,Draft,"Paucek, Brekke and Strosin",12,21,GA,Technology,405-05
+i0H1q000005iIqUMPF,Submitted,Koelpin and Sons,3,15,TX,Technology,405-05
+i0Q3h000002mJzMELR,New,"Dibbert, Zemlak and Williamson",4,7,TX,Technology,405-05
+k0M7v000000rFyEXIA,New,Hilpert and Sons,15,22,OK,Technology,405-05
+k0N4r000009qMcTAUN,Approved,Heaney Group,19,25,OK,Technology,405-05
+k0X7i000003tFsJIUE,New,Jaskolski Group,15,19,GA,Technology,405-05
+o0I0d000006oWgDOGM,New,"Hodkiewicz, Brown and Frami",7,9,TX,Technology,405-05
+o0M0l000005gEmOWLD,Rejected,"Robel, Cartwright and Jerde",12,18,TX,Technology,405-05
+o0N0t000009zXvPYKT,New,"Schoen, Mitchell and Kovacek",13,20,FL,Technology,405-05
+t0J7x000006vZbXJFH,Rejected,Tromp LLC,2,6,GA,Technology,405-05
+t0M1z000007tTjURKI,Rejected,Boehm and Sons,9,21,CA,Technology,405-05
+t0M7w000006jVrLCGN,Rejected,Hermann LLC,9,21,CA,Technology,405-05
+u0O0i000002rHhVPDU,Submitted,Gerlach Group,4,10,GA,Technology,405-05
+v0H6k000008oNkWGDO,Rejected,Hamill and Sons,4,27,CA,Technology,405-05
+v0S5j000006aXdONGR,Draft,"Weissnat, Kub and Gulgowski",21,30,CA,Technology,405-05
+x0K4q000009tXsNGAU,Rejected,"Considine, Pollich and Yost",14,23,TX,Technology,405-05
+y0C5o000008lHsIVKY,New,Kling Inc,25,27,FL,Technology,405-05
+z0L0s000007vSrYEYQ,Pending Approval,Hegmann and Sons,10,14,TX,Technology,405-05
