@@ -12,7 +12,7 @@ Entering A Travel Approval
 
     VerifyText                Travel Approvals
     ClickText                 Travel Approvals Menu
-    ClickText                 New Travel Approval          recognition_mode=vision
+    ClickText                 New Travel Approval          recognition_mode=vision    delay=3
 
     UseModal                  On
     VerifyText                New Travel Approval    
@@ -21,7 +21,7 @@ Entering A Travel Approval
     TypeText                  Search Departments...     ${Department__c}    Search Departments...
     Sleep                     1
 
-    ${dept_name}=             IsText                    ${Department__c}    3    recognition_mode=vision
+    ${dept_name}=             IsText                    ${Department__c}    anchor=2    recognition_mode=vision
 
     Run Keyword If            ${dept_name}              Short Department Name    ELSE    Long Department Name
 
