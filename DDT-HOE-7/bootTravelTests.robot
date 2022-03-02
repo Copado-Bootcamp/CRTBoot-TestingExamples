@@ -19,7 +19,7 @@ Entering A Travel Approval
     PickList                  Status                          New
     ClickText                 Department
     TypeText                  Search Departments...           Division of Family    Search Departments...
-    ClickText                 Division of Family Resources    recognition_mode=vision
+    ClickText                 Division of Family Resources405-13    Division of Family Resources405-13
     TypeText                  Purpose of Trip                 Business Development
     TypeText                  Destination State               TX
     ${current_date}=          Get Current Date                result_format=%m/%d/%Y
@@ -49,7 +49,7 @@ Entering A Travel Approval
     PickList                  Status                        New
     ClickText                 Department
     TypeText                  Search Departments...           Division of Family    Search Departments...
-    ClickText                 Division of Family Resources    recognition_mode=vision
+    ClickText                 Division of Family Resources405-13    Division of Family Resources405-13
     TypeText                  Purpose of Trip               Business Development
     TypeText                  Destination State             TX
     TypeText                  Trip Start Date               ${plus15_date}
