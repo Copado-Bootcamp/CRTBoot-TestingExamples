@@ -19,11 +19,8 @@ Entering A Travel Approval
     PickList                  Status                        ${Status__c}
     ClickText                 Department
     TypeText                  Search Departments...     ${Department__c}    Search Departments...
-    Sleep                     1
 
-    ${dept_name}=             IsText                    ${Department__c}    anchor=2    recognition_mode=vision
-
-    Run Keyword If            ${dept_name}              Short Department Name    ELSE    Long Department Name
+    ClickText                 ${Department__c}${Dept_Code__c}               ${Department__c}${Dept_Code__c}
 
     TypeText                  Purpose of Trip           ${Purpose_of_Trip__c}
     TypeText                  Destination State         ${Destination_State__c}
@@ -42,10 +39,3 @@ Entering A Travel Approval
     VerifyText                ${Department__c}    
     VerifyText                Trip Info
     VerifyText                System Fields
-
-*** Keywords ***
-Short Department Name
-    ClickText                 ${Department__c}    3    recognition_mode=vision
-
-Long Department Name
-    ClickText                 ${Department__c}    2    recognition_mode=vision
